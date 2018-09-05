@@ -1,0 +1,42 @@
+body{
+	background-color: white;
+
+}
+p{
+	margin-top: 10px;
+	margin-left: 60px;
+	
+}
+.first{
+	text-decoration: strikethrough;
+}
+p.first{
+	font-family: sans-serif;
+	color: blue;
+}
+p.second{
+	font-family: sans-serif;
+	color:red;
+}
+p.third{
+	font-family: sans-serif;
+	color: green;
+}
+p.fourth{
+	font-family: sans-serif;
+	color: brown;
+}
+p.fifth{
+	font-family: sans-serif;
+	color: brown;
+}
+p.sixth{
+	font-family: sans-serif;
+	color: brown;
+}
+p.seventh{
+	font-family: sans-serif;
+	color: black;
+	margin-top: 10px;
+	margin-left: 60px;
+}
