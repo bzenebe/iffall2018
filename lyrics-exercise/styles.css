@@ -1,0 +1,49 @@
+
+body {
+	color:  white;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size:  25px;
+	font-family: sans-serif;
+	background-color: blue;
+	text-align: center
+	display: inline;
+line-height: 1.6em;
+	padding: 60px;
+}
+
+
+
+p.Chorus{
+	
+margin-top: 10rem;
+margin-left: 10rem;
+text-align: center
+
+	font-family: sans-serif;
+	color: white;
+}
+p.Verse{
+	margin-left: 10rem;
+	margin-top: 10rem;
+	font-family: sans-serif;
+	color: white;
+}
+p.Pre-Chorus{
+	margin-left: 10rem;
+	margin-top: 10rem;
+	font-family: sans-serif;
+color: white;
+}
+p.Post-Chorus{
+	margin-left: 10rem;
+	margin-top: 10rem;
+	font-family: sans-serif;
+color: white;
+}
+p.Bridge{
+	margin-left: 10rem;
+	margin-top: 10rem;
+	font-family: sans-serif;
+color: white;
+}
