@@ -1,0 +1,92 @@
+body {
+	font-size: 25px;
+	margin: 50px;
+	padding: 0; /* removed padding to push content to edge */
+	font-family: Ubuntu; /* called a font stack, goes through options*/
+	line-height: 2px;
+	}
+
+h1#main_header {
+	color:black;
+	font-weight: bold; /*normal, thin*/
+	font-size: 100px; /* px, %, 2em relative to the element itself, 2 m is double, 
+	4 quadruple. useful when defining lengths and widths of margins/padding, rem - if we say 
+	that h1 is something and body is 2 rem, then everything scales based on that. em is relative to element
+	itself, whereas rem is based on what is defined in the body itself */
+	letter-spacing: 4px
+	text-transform: uppercase; /* lowercase, capitalize */
+	padding-bottom: 0px;
+	line-height: 50px;
+	}
+
+h2 {
+	padding-top: 0px;
+	color:#808080;
+	font-weight: bold; /*normal, thin*/
+	font-size: 30px;
+	letter-spacing: 0px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	line-height: 5px;
+	}
+
+h3 {
+	padding-top: 5px;
+	padding-bottom: 0px;
+	color:#C0C0C0;
+	font-size: 15px;
+	font-style: thin;
+	line-height: 2px;
+	margin-top: 5px;
+
+	}
+
+h4#generic {
+	font-size: 60px;
+	padding-bottom: 20px;
+	line-height: 40px
+	}
+
+
+p.italic {
+	font-style: italic;
+}
+
+p.bold {
+	font-weight: bold;
+}
+
+p.thin {
+	font-weight: thin
+}
+
+p.point-three-em {
+	
+	letter-spacing: .3em;
+}
+
+p.negative-point-zero-six-em {
+	letter-spacing: -.06em;
+}
+
+p.underline { 
+	text-decoration-line: underline;
+}
+
+p.line-through {
+	text-decoration-line: line-through;
+}
+p.overline {
+	text-decoration: overline;
+}
+p.uppercase { 
+	text-transform: uppercase;
+}
+
+p.lowercase {
+	text-transform: lowercase;
+}
+
+p.capitalize {
+	text-transform: capitalize;
+}
