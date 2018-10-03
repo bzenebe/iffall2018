@@ -1,0 +1,36 @@
+		aside#firstDiv{
+			float: right;
+		}
+
+		aside#secondDiv{
+			position: absolute;
+			bottom: -300px;
+			left: 0px;
+		}
+
+		aside#thirdDiv{
+			background-color: green;
+			position: fixed;
+			top: 0;
+			right: 0;
+
+		}
+
+		aside#fourthDiv{
+			background-color: black;
+			position: absolute;
+			left:50%;
+			transform: translateX(-50%);
+			transform: translateY(5px);
+
+		}
+
+		aside#fifthDiv{
+			background-color: red;
+			position: absolute;
+			left: calc(-50% +50px);
+			transform: translateX(50%);
+			left: 400px;
+			
+
+		}
