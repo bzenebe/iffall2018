@@ -1,0 +1,93 @@
+
+
+body{
+
+	background-color:  #DDFF33;
+
+	margin-left: 10px;
+}
+
+h1 {
+
+	font-size: 80px;
+
+	font-family: sans-serif;
+
+	text-align: left;
+
+}
+
+h2 {
+
+	font-family: 'Lalezar', cursive;
+
+	font-size: 20px;
+
+	margin-right: 20px;
+
+	text-align: left;
+	
+}
+
+#Serving {
+
+	font-family: 'Lalezar', cursive;
+
+	font-size: 30px;
+
+}
+
+h3 {
+
+	font-family: 'Lalezar', cursive;
+
+	text-transform: uppercase;
+
+	font-size: 50px;
+
+	letter-spacing: 0px;
+
+	text-align: center;
+
+
+	text-align: left;
+}
+.ingredients{
+
+	font-family: 'Lato', sans-serif;
+
+	font-size: 25px;
+
+	letter-spacing: 0px;
+
+	text-align: center;
+
+	text-align: left;
+}
+.directions{
+
+	font-family: 'Arimo', sans-serif;
+
+	font-size: 22px;
+
+	letter-spacing: 0px;
+
+	text-align: center;
+
+	font-weight: bold;
+
+	text-align: left;
+
+}
+#Outro {
+
+	font-size: 30px;
+
+	letter-spacing: 1px;
+
+	text-align: left;
+
+	font-family: 'Lalezar', cursive;
+
+	
+}
