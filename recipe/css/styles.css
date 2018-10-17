@@ -2,6 +2,8 @@
 
 body{
 
+	text-align: center;
+
 	background-color:  #DDFF33;
 
 	margin-left: 10px;
@@ -9,11 +11,13 @@ body{
 
 h1 {
 
+	text-align: center;
+
 	font-size: 80px;
 
 	font-family: sans-serif;
 
-	text-align: left;
+	text-align: center;
 
 }
 
@@ -21,11 +25,11 @@ h2 {
 
 	font-family: 'Lalezar', cursive;
 
-	font-size: 20px;
+	font-size: 12px;
 
 	margin-right: 20px;
 
-	text-align: left;
+	text-align: center;
 	
 }
 
@@ -49,8 +53,6 @@ h3 {
 
 	text-align: center;
 
-
-	text-align: left;
 }
 .ingredients{
 
@@ -62,7 +64,6 @@ h3 {
 
 	text-align: center;
 
-	text-align: left;
 }
 .directions{
 
@@ -74,18 +75,12 @@ h3 {
 
 	text-align: center;
 
-	font-weight: bold;
-
-	text-align: left;
-
 }
 #Outro {
 
 	font-size: 30px;
 
 	letter-spacing: 1px;
-
-	text-align: left;
 
 	font-family: 'Lalezar', cursive;
 
