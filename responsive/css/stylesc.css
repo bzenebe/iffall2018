@@ -1,0 +1,122 @@
+html, body {
+
+	height: 100%;
+
+	font-family: 'Paytone One', sans-serif;
+
+}
+
+body>div {
+	
+	background-image: url(../img/jakeandlady.png);
+
+	background-size: cover;
+
+	background-position: center;
+
+	height: 100%;
+
+	position: relative;
+}
+
+.textbox {
+
+	font-family: 'Paytone One', sans-serif;
+
+	position: absolute;
+
+	right: 2em;
+
+	top: 8%;
+
+	max-width: 45%;
+
+	color: white;
+
+	letter-spacing: .13em;
+
+	text-shadow: 2px 2px black;
+
+}
+
+.text {
+
+	font-family: 'Paytone One', sans-serif;
+
+	font-size: 2.5em;
+
+	text-align: right;
+
+}
+
+.character {
+
+	font-family: 'Didact Gothic', sans-serif;
+
+	margin-top: .5em;
+	margin-right: 0.75em;
+	font-size: 1.75em;
+	text-align: right;
+	font-color:white;
+}
+
+@media (max-width: 900px) {
+	body>div {
+		background-image: url(../img/jakeandlady.png);
+		background-position: center right;
+	}
+
+	.textbox {
+		top: 20%;
+		max-width: 50%;
+	}
+
+	.text {
+		font-size: 2em;
+	}
+
+	.character {
+		font-size: 1.35em;
+		font-weight: 2rem;
+	}
+}
+
+@media (max-width: 600px) {
+
+	body>div {
+
+		background-image: url(../img/jakeandlady.png);
+
+		background-position: center top;
+	}
+
+
+	.textbox {
+
+		top: 20%;
+
+		max-width: 50%;
+	}
+
+	.text {
+
+		font-size: 2em;
+	}
+
+	.character {
+		font-size: 2em;
+	}
+}
+
+
+
+
+a {
+        display: block; /* turn the inline element into a box */
+        position: fixed; /* position the anchor fixed to the viewport */
+        top: 0; /* have the top edge of the anchor touch the the top of the viewport */
+        bottom: 0;  /* have the bottom edge of the anchor touch the the bottom of the viewport */
+        left: 0;  /* have the left edge of the anchor touch the the left of the viewport */
+        right: 0;  /* have the right edge of the anchor touch the the right of the viewport */
+        z-index: 100; /* make sure the anchor is the highest thing in the stack order of all elements */
+}
