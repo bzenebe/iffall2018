@@ -2,20 +2,21 @@ body{
 
 	font-size: 12px;
 
-	background-image: url(../img/11.jpg);
-
 	background-size: cover;
 
 	font-family: sans-serif;
 
 	margin-top: 20px;
-
+	
 }
+
 
 
 header {
 
-  opacity: ;
+	background-image: url(../img/11.jpg);
+
+  opacity: .7;
 
   font-family: 'Poppins', sans-serif;
 
@@ -62,13 +63,13 @@ ul li {
 
 	font-family: 'Poppins', sans-serif;
 
+	opacity: .8;
+
 	line-height: 60px;
 
 	text-align: center;
 
 	font-size: 20px;
-
-	letter-spacing: 1.2px;
 
 	margin-right: 5px;
 
@@ -114,11 +115,8 @@ ul li:hover ul li{
 }
 
 .text{
-	margin-top: 5px;
 
-	font-size: 15px;
-
-
+	font-size: 5px;
 }
 
 section {
@@ -127,17 +125,7 @@ section {
 
 	padding: 60px;
 
-	padding-left: none;
-
-	margin-top: 8rem;
-
-	margin-right: 20rem;
-
-	padding-left: 20px;
+	margin-top: 5rem;
 }
 
-img {
-
-	overflow: scroll;
-}
 
