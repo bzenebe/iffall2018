@@ -34,7 +34,7 @@ header {
 
   padding: 1em 1em;
 
-  opacity: .9;
+  opacity: ;
 
 
 
@@ -71,7 +71,7 @@ ul li {
 
 	background-color: #262626;
 
-	opacity: .8;
+	opacity: .9;
 
 	font-family: 'Poppins', sans-serif;
 
@@ -132,10 +132,6 @@ ul li:hover ul li{
 
 .text{
 
-	/*padding-left: 400px;
-
-	padding-right: 400px;*/
-
 	width: 55%;
 
 	height: 95%;
@@ -152,21 +148,17 @@ ul li:hover ul li{
 
 	display: block;
 
-margin: auto;
+	margin: auto;
 
-font-size: 20px;
+	font-size: 20px;
 
-position: relative;
+	position: relative;
 
+	text-align: center;
 
-
-text-align: center;
-
-float: center;
-
+	float: center;
 
     border-radius: 25px;
-
 
 }
 
