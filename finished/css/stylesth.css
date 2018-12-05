@@ -71,7 +71,7 @@ ul li {
 
 	background-color: #262626;
 
-	opacity: .8;
+	opacity: .85;
 
 	font-family: 'Poppins', sans-serif;
 
@@ -132,10 +132,6 @@ ul li:hover ul li{
 
 .text{
 
-	/*padding-left: 400px;
-
-	padding-right: 400px;*/
-
 	width: 55%;
 
 	height: 95%;
@@ -152,21 +148,17 @@ ul li:hover ul li{
 
 	display: block;
 
-margin: auto;
+	margin: auto;
 
-font-size: 20px;
+	font-size: 20px;
 
-position: relative;
+	position: relative;
 
+	text-align: center;
 
-
-text-align: center;
-
-float: center;
-
+	float: center;
 
     border-radius: 25px;
-
 
 }
 
@@ -192,7 +184,7 @@ margin-top: 10rem;
 
 box-shadow: 0 0 20px 20px rgba(0,0,.25,.25);
 
-opacity: .83;
+opacity: .8;
 }
 
 div.container:hover {
@@ -201,50 +193,6 @@ background-color: #ffffff;
 
 }
 
-/*footer {
-
-	color: white;
-
-	font-size: 18px;
-
-	background-color: black;
-
-	width: 100%
-
-	height: 30px;
-
-	margin-top: 4rem;
-
-    position: relative;
-    bottom: 0px;
-    width: 100%;
-
-}*/
-
-/*
-.text:after {
-
-content: '';
-
-display: block;
-
-width: 80%;
-
-height: 100px;
-
-box-shadow: 0 2px 120px rgba(0,0,0,.75);
-
-position: absolute;
-
-bottom: 0;
-
-left: 20%
-
-z-index: -1;
-
-}
-
-*/
 
 
 
