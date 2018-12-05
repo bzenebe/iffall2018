@@ -1,0 +1,59 @@
+
+body {
+	color:  white;
+	font-family: 'Permanent Marker', cursive;
+	font-family: font-family: 'Fugaz One', cursive;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size:  30px;
+	background-color: blue;
+	text-align: center
+	line-height: 1.6em;
+	
+}
+
+h1{
+	color: #FFC0CB;
+	text-align: center;
+
+}
+
+h2{
+	color: #FAFAD2;
+	text-align: center;
+
+}
+
+div.pic{
+		text-align: center;
+
+}
+
+p.Chorus{
+	
+	margin-top: 2rem;
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	color: white;
+}
+p.Verse{
+	margin-top: 2rem;
+	text-align: center;
+	color: white;
+}
+p.Pre-Chorus{
+	margin-top: 2rem;
+	text-align: center;
+	
+	color: white;
+}
+p.Post-Chorus{
+	margin-top: 5rem;
+	text-align: center;
+	color: white;
+}
+p.Bridge{
+	margin-top: 5rem;
+	text-align: center;
+	color: white;
+}

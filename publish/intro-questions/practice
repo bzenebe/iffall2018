@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html
+	<head>
+<title>HTML markup </title>
+<style>
+
+p {
+	color:  green;
+}
+</style>
+	</head>
+	<body>
+	<header></header>
+	<section>
+	<sidebar></sidebar>
+	</section>
+	<footer></footer>
+	<h1>Headline</h1>
+	<h2>Headline</h2>
+	<p style = "font-family:sans-serif;">
+	This is the first <b>paragraph</b> in my <strong>document</strong>. Search up a relative path for images.
+	</p>
+	<hr>
+	<p><strong>This</strong> is <i>another</i> <em>paragraph<em>.</p>
+	<img src="images/poe.jpg" alt="Picture of car.">
+	</body>
+
+
+
+</html>
